@@ -1,0 +1,244 @@
+{
+  "meta": {
+    "version": "1.0",
+    "last_updated": "2025-08-17",
+    "maintainer": "Aether Fakao Skill",
+    "source": "flk.npc.gov.cn",
+    "note": "法条核验状态：verified=已核验, pending=待核验, outdated=已废止"
+  },
+  "laws": [
+    {
+      "id": "criminal-law",
+      "name": "中华人民共和国刑法",
+      "issuer": "全国人民代表大会",
+      "issued": "1997-03-14",
+      "revised": "2023-12-29",
+      "status": "current",
+      "verification": "pending",
+      "flk_url": "https://flk.npc.gov.cn",
+      "key_articles": [
+        {"article": "第13条", "title": "犯罪概念", "frequency": "high"},
+        {"article": "第14条", "title": "故意犯罪", "frequency": "high"},
+        {"article": "第15条", "title": "过失犯罪", "frequency": "high"},
+        {"article": "第20条", "title": "正当防卫", "frequency": "high"},
+        {"article": "第21条", "title": "紧急避险", "frequency": "medium"},
+        {"article": "第22-24条", "title": "犯罪预备/未遂/中止", "frequency": "high"},
+        {"article": "第25-29条", "title": "共同犯罪", "frequency": "high"},
+        {"article": "第65条", "title": "累犯", "frequency": "high"},
+        {"article": "第67条", "title": "自首", "frequency": "high"},
+        {"article": "第68条", "title": "立功", "frequency": "medium"},
+        {"article": "第72条", "title": "缓刑", "frequency": "high"},
+        {"article": "第263条", "title": "抢劫罪", "frequency": "high"},
+        {"article": "第264条", "title": "盗窃罪", "frequency": "high"},
+        {"article": "第266条", "title": "诈骗罪", "frequency": "high"},
+        {"article": "第269条", "title": "转化型抢劫", "frequency": "high"},
+        {"article": "第270条", "title": "侵占罪", "frequency": "high"},
+        {"article": "第382条", "title": "贪污罪", "frequency": "high"},
+        {"article": "第384条", "title": "挪用公款罪", "frequency": "high"},
+        {"article": "第385条", "title": "受贿罪", "frequency": "high"}
+      ]
+    },
+    {
+      "id": "criminal-procedure-law",
+      "name": "中华人民共和国刑事诉讼法",
+      "issuer": "全国人民代表大会",
+      "issued": "1979-07-01",
+      "revised": "2018-10-26",
+      "status": "current",
+      "verification": "pending",
+      "flk_url": "https://flk.npc.gov.cn",
+      "key_articles": [
+        {"article": "第3条", "title": "职权原则", "frequency": "high"},
+        {"article": "第15条", "title": "认罪认罚从宽", "frequency": "high"},
+        {"article": "第19条", "title": "检察院立案管辖", "frequency": "high"},
+        {"article": "第33条", "title": "辩护", "frequency": "high"},
+        {"article": "第37条", "title": "辩护人会见权", "frequency": "high"},
+        {"article": "第39条", "title": "辩护人阅卷权", "frequency": "high"},
+        {"article": "第50条", "title": "证据种类", "frequency": "high"},
+        {"article": "第52条", "title": "非法证据排除", "frequency": "high"},
+        {"article": "第67条", "title": "取保候审条件", "frequency": "high"},
+        {"article": "第81条", "title": "逮捕条件", "frequency": "high"},
+        {"article": "第175条", "title": "补充侦查", "frequency": "medium"},
+        {"article": "第177条", "title": "不起诉", "frequency": "high"},
+        {"article": "第201条", "title": "认罪认罚量刑建议", "frequency": "high"},
+        {"article": "第226条", "title": "简易程序", "frequency": "high"},
+        {"article": "第230条", "title": "上诉抗诉期限", "frequency": "medium"}
+      ]
+    },
+    {
+      "id": "civil-code",
+      "name": "中华人民共和国民法典",
+      "issuer": "全国人民代表大会",
+      "issued": "2020-05-28",
+      "revised": null,
+      "status": "current",
+      "verification": "verified",
+      "flk_url": "https://flk.npc.gov.cn",
+      "key_articles": [
+        {"article": "第13条", "title": "民事权利能力", "frequency": "high"},
+        {"article": "第17-18条", "title": "行为能力", "frequency": "high"},
+        {"article": "第19-22条", "title": "限制行为能力", "frequency": "high"},
+        {"article": "第143条", "title": "法律行为有效要件", "frequency": "high"},
+        {"article": "第146条", "title": "虚假表示", "frequency": "medium"},
+        {"article": "第148-150条", "title": "可撤销", "frequency": "high"},
+        {"article": "第153-154条", "title": "无效", "frequency": "high"},
+        {"article": "第171-172条", "title": "无权代理/表见代理", "frequency": "high"},
+        {"article": "第188条", "title": "诉讼时效", "frequency": "high"},
+        {"article": "第311条", "title": "善意取得", "frequency": "high"},
+        {"article": "第394-419条", "title": "抵押权", "frequency": "high"},
+        {"article": "第425-457条", "title": "留置权", "frequency": "high"},
+        {"article": "第464-509条", "title": "合同通则", "frequency": "high"},
+        {"article": "第533条", "title": "情势变更", "frequency": "medium"},
+        {"article": "第535-542条", "title": "代位权/撤销权", "frequency": "high"},
+        {"article": "第577-588条", "title": "违约责任", "frequency": "high"},
+        {"article": "第1165-1166条", "title": "归责原则", "frequency": "high"},
+        {"article": "第1168-1172条", "title": "多数人侵权", "frequency": "high"},
+        {"article": "第1202-1207条", "title": "产品责任", "frequency": "high"}
+      ]
+    },
+    {
+      "id": "civil-procedure-law",
+      "name": "中华人民共和国民事诉讼法",
+      "issuer": "全国人民代表大会",
+      "issued": "1991-04-09",
+      "revised": "2023-09-01",
+      "status": "current",
+      "verification": "pending",
+      "flk_url": "https://flk.npc.gov.cn",
+      "key_articles": [
+        {"article": "第22条", "title": "级别管辖", "frequency": "high"},
+        {"article": "第24条", "title": "地域管辖", "frequency": "high"},
+        {"article": "第35条", "title": "协议管辖", "frequency": "high"},
+        {"article": "第127条", "title": "管辖权异议", "frequency": "high"},
+        {"article": "第56条", "title": "第三人", "frequency": "high"},
+        {"article": "第67条", "title": "举证责任", "frequency": "high"},
+        {"article": "第122条", "title": "起诉条件", "frequency": "high"},
+        {"article": "第157条", "title": "简易程序", "frequency": "high"},
+        {"article": "第164条", "title": "小额诉讼", "frequency": "medium"},
+        {"article": "第171条", "title": "上诉", "frequency": "high"},
+        {"article": "第206条", "title": "再审事由", "frequency": "high"}
+      ]
+    },
+    {
+      "id": "administrative-litigation-law",
+      "name": "中华人民共和国行政诉讼法",
+      "issuer": "全国人民代表大会",
+      "issued": "1989-04-04",
+      "revised": "2017-06-27",
+      "status": "current",
+      "verification": "pending",
+      "flk_url": "",
+      "key_articles": [
+        {"article": "第12条", "title": "受案范围", "frequency": "high"},
+        {"article": "第13条", "title": "不受案范围", "frequency": "high"},
+        {"article": "第14-16条", "title": "管辖", "frequency": "high"},
+        {"article": "第25条", "title": "原告资格", "frequency": "high"},
+        {"article": "第44条", "title": "复议前置", "frequency": "high"},
+        {"article": "第69-78条", "title": "判决类型", "frequency": "high"}
+      ]
+    },
+    {
+      "id": "administrative-punishment-law",
+      "name": "中华人民共和国行政处罚法",
+      "issuer": "全国人民代表大会",
+      "issued": "1996-03-17",
+      "revised": "2021-01-22",
+      "status": "current",
+      "verification": "pending",
+      "flk_url": "",
+      "key_articles": [
+        {"article": "第9条", "title": "处罚种类", "frequency": "high"},
+        {"article": "第10-13条", "title": "设定权", "frequency": "high"},
+        {"article": "第44-48条", "title": "简易程序", "frequency": "medium"},
+        {"article": "第54-62条", "title": "一般程序", "frequency": "medium"},
+        {"article": "第63条", "title": "听证", "frequency": "high"}
+      ]
+    },
+    {
+      "id": "company-law",
+      "name": "中华人民共和国公司法",
+      "issuer": "全国人民代表大会常务委员会",
+      "issued": "1993-12-29",
+      "revised": "2023-12-29",
+      "status": "current",
+      "verification": "pending",
+      "flk_url": "",
+      "key_articles": [
+        {"article": "第43-50条", "title": "股东出资", "frequency": "high"},
+        {"article": "第59-70条", "title": "股东会", "frequency": "high"},
+        {"article": "第71-83条", "title": "董事会", "frequency": "high"},
+        {"article": "第188条", "title": "股东知情权", "frequency": "high"},
+        {"article": "第225条", "title": "股东代表诉讼", "frequency": "high"},
+        {"article": "第265条", "title": "司法解散", "frequency": "medium"}
+      ]
+    },
+    {
+      "id": "copyright-law",
+      "name": "中华人民共和国著作权法",
+      "issuer": "全国人民代表大会常务委员会",
+      "issued": "1990-09-07",
+      "revised": "2020-11-11",
+      "status": "current",
+      "verification": "pending",
+      "flk_url": "",
+      "key_articles": [
+        {"article": "第10条", "title": "著作权内容", "frequency": "high"},
+        {"article": "第23条", "title": "保护期", "frequency": "high"},
+        {"article": "第24条", "title": "合理使用", "frequency": "high"},
+        {"article": "第25条", "title": "法定许可", "frequency": "medium"},
+        {"article": "第54条", "title": "侵权赔偿", "frequency": "medium"}
+      ]
+    },
+    {
+      "id": "patent-law",
+      "name": "中华人民共和国专利法",
+      "issuer": "全国人民代表大会常务委员会",
+      "issued": "1984-03-12",
+      "revised": "2020-10-17",
+      "status": "current",
+      "verification": "pending",
+      "flk_url": "",
+      "key_articles": [
+        {"article": "第2条", "title": "专利类型", "frequency": "high"},
+        {"article": "第22条", "title": "新颖性/创造性/实用性", "frequency": "high"},
+        {"article": "第25条", "title": "不授予专利权", "frequency": "high"},
+        {"article": "第42条", "title": "保护期", "frequency": "high"},
+        {"article": "第11条", "title": "专利权内容", "frequency": "medium"}
+      ]
+    },
+    {
+      "id": "trademark-law",
+      "name": "中华人民共和国商标法",
+      "issuer": "全国人民代表大会常务委员会",
+      "issued": "1982-08-23",
+      "revised": "2019-04-23",
+      "status": "current",
+      "verification": "pending",
+      "flk_url": "",
+      "key_articles": [
+        {"article": "第8条", "title": "商标构成", "frequency": "high"},
+        {"article": "第9条", "title": "显著性", "frequency": "high"},
+        {"article": "第10-12条", "title": "禁用/禁注", "frequency": "high"},
+        {"article": "第39条", "title": "保护期", "frequency": "medium"},
+        {"article": "第57条", "title": "侵权行为", "frequency": "high"}
+      ]
+    },
+    {
+      "id": "constitution",
+      "name": "中华人民共和国宪法",
+      "issuer": "全国人民代表大会",
+      "issued": "1982-12-04",
+      "revised": "2018-03-11",
+      "status": "current",
+      "verification": "verified",
+      "flk_url": "https://flk.npc.gov.cn",
+      "key_articles": [
+        {"article": "第33-50条", "title": "公民基本权利", "frequency": "high"},
+        {"article": "第57-67条", "title": "全国人大", "frequency": "high"},
+        {"article": "第85-92条", "title": "国务院", "frequency": "high"},
+        {"article": "第123-127条", "title": "监察委员会", "frequency": "high"},
+        {"article": "第128-135条", "title": "法院/检察院", "frequency": "high"}
+      ]
+    }
+  ]
+}
