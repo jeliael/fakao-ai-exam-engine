@@ -109,7 +109,7 @@ fakao-skill/
 ### 环境要求
 - Python 3.8+
 - python-docx（Word生成）
-- opencode（Skill运行环境，可选）
+- codex/claude code/opencode等（Skill运行环境，可选）
 
 ### 法规检索
 ```bash
